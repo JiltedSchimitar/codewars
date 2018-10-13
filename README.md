@@ -8,8 +8,6 @@ CodeWars Codes
  * returns its multiplicative persistence, which is the number of times you must
  * multiply the digits in num until you reach a single digit.
  * 
- * [Persistent Bugger](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec)
- *
  * For example:
  *
  * persistence(39) == 3 // because 3*9 = 27, 2*7 = 14, 1*4=4 // and 4 has only one digit		      
@@ -20,5 +18,6 @@ CodeWars Codes
  * 
  * @author JiltedSchimitar
  *
+ * [Persistent Bugger Codewars Link](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec)
  
 **************************************************************************************************************************************
