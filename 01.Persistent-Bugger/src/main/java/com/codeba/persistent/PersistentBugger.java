@@ -17,7 +17,7 @@ import java.util.stream.Stream;
  * |persistence(4) == 0 // because 4 is already a one-digit number								  |
  * |______________________________________________________________________________________________|
  * 
- * @author Manuhas
+ * @author JiltedSchimitar
  *
  */
 
@@ -29,7 +29,7 @@ public class PersistentBugger {
 
 		int count = 0;
 
-		while (String.valueOf(n).length() > 1) {
+		while (n > 10) {
 
 			n = Stream.of(String.valueOf(n).split("")).mapToInt(Integer::valueOf).boxed().reduce(1, (a, b) -> a * b);
 
