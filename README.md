@@ -2,7 +2,7 @@
 CodeWars Codes
 
 **************************************************************************************************************************************
-./01.Persistent-Bugger
+<p>01.Persistent-Bugger</p>
 
  * Write a function, persistence, that takes in a positive parameter num and
  * returns its multiplicative persistence, which is the number of times you must
@@ -16,6 +16,5 @@ CodeWars Codes
  * persistence(4) == 0 // because 4 is already a one-digit number								                
  * 
  * @author JiltedSchimitar
- *
  
 **************************************************************************************************************************************
