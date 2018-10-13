@@ -3,7 +3,7 @@ CodeWars Codes
 
 **************************************************************************************************************************************
 <h2>01.Persistent-Bugger</h2>
-[Persistent-Bugger](01.Persistent-Bugger)
+ [This is an absolute link to a nested folder](codewars/01.Persistent-Bugger)
  
  *
  * Write a function, persistence, that takes in a positive parameter num and
