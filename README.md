@@ -17,5 +17,7 @@ CodeWars Codes
  * persistence(4) == 0 // because 4 is already a one-digit number								                
  * 
  * @author JiltedSchimitar
+ *
+ *[Persistent Bugger](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec)
  
 **************************************************************************************************************************************
