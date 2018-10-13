@@ -3,7 +3,6 @@ CodeWars Codes
 
 **************************************************************************************************************************************
 <h2>01.Persistent-Bugger</h2>
- ![Solarized](https://github.com/altercation/solarized/raw/master/img/solarized-dualmode.png)
  *
  * Write a function, persistence, that takes in a positive parameter num and
  * returns its multiplicative persistence, which is the number of times you must
