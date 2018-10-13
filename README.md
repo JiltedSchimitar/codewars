@@ -31,14 +31,13 @@ CodeWars Codes
  * 
  * For example:
  * 
- *  																							   
  * toCamelCase("the-stealth-warrior"); // returns "theStealthWarrior"							  
  *  																							   
  * toCamelCase("The_Stealth_Warrior"); // returns "TheStealthWarrior" 							  
- * 
  * 
  * @author JiltedSchimitar
  *
  * [Codewars Link](https://www.codewars.com/kata/517abf86da9663f1d2000003)
  * [Solution](https://github.com/JiltedSchimitar/codewars/tree/master/02.Convert%20string%20to%20camel%20case)
- *
+
+**************************************************************************************************************************************
