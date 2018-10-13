@@ -2,7 +2,8 @@
 CodeWars Codes
 
 **************************************************************************************************************************************
-<p>01.Persistent-Bugger</p>
+<h1>01.Persistent-Bugger</h1>
+[a link](https://github.com/JiltedSchimitar/codewars/tree/master/01.Persistent-Bugger)
 
  * Write a function, persistence, that takes in a positive parameter num and
  * returns its multiplicative persistence, which is the number of times you must
