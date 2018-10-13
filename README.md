@@ -19,7 +19,6 @@ CodeWars Codes
  * @author JiltedSchimitar
  *
  * [Codewars Link](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec)
- *
- * [GitHub Link](https://github.com/JiltedSchimitar/codewars/tree/master/01.Persistent-Bugger)
+ * [Solution](https://github.com/JiltedSchimitar/codewars/tree/master/01.Persistent-Bugger)
  
 **************************************************************************************************************************************
