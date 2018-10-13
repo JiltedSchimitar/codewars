@@ -22,3 +22,23 @@ CodeWars Codes
  * [Solution](https://github.com/JiltedSchimitar/codewars/tree/master/01.Persistent-Bugger)
  
 **************************************************************************************************************************************
+
+<h2> 2. Convert to CamelCase</h2>
+
+ * Complete the method/function so that it converts dash/underscore delimited
+ * words into camel casing. The first word within the output should be
+ * capitalized only if the original word was capitalized.
+ * 
+ * For example:
+ * 
+ *  																							   
+ * toCamelCase("the-stealth-warrior"); // returns "theStealthWarrior"							  
+ *  																							   
+ * toCamelCase("The_Stealth_Warrior"); // returns "TheStealthWarrior" 							  
+ * 
+ * 
+ * @author JiltedSchimitar
+ *
+ * [Codewars Link](https://www.codewars.com/kata/517abf86da9663f1d2000003)
+ * [Solution](https://github.com/JiltedSchimitar/codewars/tree/master/02.Convert%20string%20to%20camel%20case)
+ *
